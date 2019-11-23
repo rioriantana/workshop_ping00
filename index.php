@@ -1,5 +1,5 @@
 <?php
 
-echo "hello world workshop Ping";
+header('Location: /index.html');
 
 ?>
